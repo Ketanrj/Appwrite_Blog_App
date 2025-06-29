@@ -12,7 +12,7 @@ import Postcard from './Postcard'
 import AuthLayout from './AuthLayout'
 import RTE from "./RTE";
 import Select from './Select'
-
+import GoogleLogin from './GoogleLogin'
 
 export {
     Header,
@@ -28,6 +28,7 @@ export {
     Postcard,
     AuthLayout,
     RTE,
-    Select
+    Select,
+    GoogleLogin
     
 } 

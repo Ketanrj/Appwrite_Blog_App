@@ -6,7 +6,7 @@ import { login } from '../store/authSlice'
 import { Button, Input, Logo } from './index'
 import { useDispatch } from 'react-redux'
 import { useForm } from 'react-hook-form'
-import GoogleLogin from './googleLogin'
+import GoogleLogin from './index'
 
 function Login() {
   const dispatch = useDispatch()
