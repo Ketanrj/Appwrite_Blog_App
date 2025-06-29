@@ -1,5 +1,5 @@
 import { Client, Databases, ID, Query, Storage } from "appwrite";
-import conf from '/Users/Dell/Desktop/React/Appwrite_Blog_App/connection/conf'
+import conf from '../../../connection/conf'
 
 class Service {
     client = new Client()
