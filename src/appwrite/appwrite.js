@@ -1,5 +1,5 @@
 import { Client, Account, OAuthProvider } from 'appwrite'
-import conf from '/connection/conf'
+import conf from '../../connection/conf'
 
 // console.log(conf);
 

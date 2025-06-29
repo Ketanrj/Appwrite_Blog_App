@@ -1,7 +1,7 @@
 import React from 'react'
 import appwriteService from '../appwrite/crud/service'
 import { Link } from 'react-router-dom'
-import conf from '/Users/Dell/Desktop/React/Appwrite_Blog_App/connection/conf'
+import conf from '../../connection/conf'
 import parse from 'html-react-parser';
 import { useSelector } from 'react-redux';
 
